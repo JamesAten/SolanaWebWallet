@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header';
-import CreateWallet from "./components/CreateWallet";
+import ManageAccount from "./components/ManageAccount";
 
 function App() {
   return (
     <div className="App">
         <Header />
-        <CreateWallet />
+        <ManageAccount />
     </div>
   );
 }
