@@ -1,0 +1,16 @@
+Solana Test Addresses
+
+1. 
+public:
+D6Ct3wZSpsirxqyNt1xakbUVLL7jXQRSgeET85tczHNc
+
+secret:
+759400c3b6bb45ae060e5cefb2373806a08c21bb00636bcdb391212b3d49127fb3a1948356615dc76e70b06a3a14060fce0ee67b1e55b69f954fd6da486fcc9d
+
+2.
+public:
+CR7wv1wcX1JTrriUZR5jVLLhy3yoJtZnG3nivbwX12ap
+
+secret:
+708489ef62ecf7e470e7b2181bbf449560a2c36b054a049b565c9c6757b05b05a99e59b20d3e5a0ab07236cec8f6ef1598c2ed608adb0fdbe0fdf0cccdbef86d
+

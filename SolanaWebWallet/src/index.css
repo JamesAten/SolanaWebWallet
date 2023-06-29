@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  background-color: lightgray;
+  padding: .5em;
+  margin: .5em 0 .5em 0;
+}
+
+.header-title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button {
+  margin: .5em;
+}
+
+h4, h5, input {
+  margin: .5em 0 .5em 0;
+}
+
+.sendDiv {
+  background-color: lightgray;
+  border-radius: 20px;
+  padding: .2em;
+}
+
+input {
+  margin: .5em;
+}
